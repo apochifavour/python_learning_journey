@@ -25,3 +25,23 @@ print(4)
 
 print("Total:")
 print("₦" + str(2000 * 4))
+
+
+# MY WALLET
+
+print("===================")
+print("     MY WALLET")
+print("==================")
+
+print("Starting Balance:")
+print("₦30000")
+
+
+print("Deposit:")
+print("₦12000")
+
+
+print("New Balance:")
+print("₦" + str(30000 + 12000))
+
+
