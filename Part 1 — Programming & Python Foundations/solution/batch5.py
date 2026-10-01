@@ -22,3 +22,8 @@ print("Hello " + name)
 
 age = input("Enter your age: ")
 print("Your age is " + age)
+wallet_balance = 15000
+print = int(input("Enter wallet balance: "))
+
+price = int(input("Enter product price: "))
+quantity = int(input("Enter quantity: "))
