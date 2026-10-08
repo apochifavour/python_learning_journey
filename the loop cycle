@@ -1,0 +1,25 @@
+count = 1
+
+       ↓
+┌───────────────┐
+│ count <= 5 ?  │
+└───────┬───────┘
+        │
+       YES
+        ↓
+   print(count)
+        ↓
+   count += 1
+        │
+        └──────→ CHECK AGAIN
+
+Eventually:
+
+count = 6
+
+6 <= 5 ?
+
+NO
+
+↓
+END
